@@ -1,5 +1,5 @@
 # **Stock Market Trend Analysis**  
-**Akshay Sreeramoju**
+**Ramyasri Sreeramoju**
 
 - Jupyter notebook: **Stock_Market_Analysis.ipynb**
 
